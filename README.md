@@ -1,9 +1,8 @@
 # Olá, Eu sou a Nathalia! 👋
 
 
-<h3 align="center">
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nttcerqueira)
-</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
