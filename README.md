@@ -1,5 +1,7 @@
 # Olá, Eu sou a Nathalia! 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apinttcerqueira=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
