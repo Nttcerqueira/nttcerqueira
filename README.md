@@ -3,7 +3,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nttcerqueira)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Follow me on github!:</h3>
 <p align="left">
 </p>
 
