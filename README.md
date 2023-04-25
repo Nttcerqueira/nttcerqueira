@@ -1,4 +1,4 @@
-## Olá, Eu sou a Nathalia 👋
+**Olá, Eu sou a Nathalia 👋
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
