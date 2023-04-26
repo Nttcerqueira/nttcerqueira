@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Nathalia!☕</h1>
+<h1 align="center">Olá, eu sou a Nathalia!👋🏼☕</h1>
 
 <div>
 <a href="https://github.com/nttcerqueira">
