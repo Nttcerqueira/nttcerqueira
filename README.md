@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou a Nathalia!👋</h1>
 
 <div>
-<a href align="center"="https://github.com/nttcerqueira">
+<a href="https://github.com/nttcerqueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nttcerqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
