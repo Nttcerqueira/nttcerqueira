@@ -1,4 +1,4 @@
-# Olá, Eu sou a Nathalia! 👋🌱
+# Olá, Eu sou a Nathalia! 👋
 
 <div>
 <a href="https://github.com/nttcerqueira">
