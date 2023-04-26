@@ -1,4 +1,4 @@
-# Olá, Eu sou a Nathalia! 👋
+<marquee> # Olá, Eu sou a Nathalia! 👋 </marquee>
 
 
 
